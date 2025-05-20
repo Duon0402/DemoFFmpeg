@@ -119,9 +119,5 @@ namespace DemoFFmpeg
         }
 
         #endregion
-
-        #region Models 
-
-        #endregion
     }
 }
